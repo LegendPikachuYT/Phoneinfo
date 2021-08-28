@@ -12,3 +12,13 @@ THIS TOOL IS EASY TO USE
 
 
 
+#Commands For Termux 
+
+pkg install python
+pip3 install pyfiglet
+pip3 install termcolor
+pip3 install phonenumbers
+pip3 install sys
+git clone https://github.com/LegendPikachuYT/Phoneinfo
+cd Phoneinfo
+python3 phoneinfo.py
