@@ -16,7 +16,7 @@ print("\n\n")
 
 msg0=(colored('''+----------------------------------------------+
 | Name:        PhoneNumber Validator V1
-| Author:      @LuciferxD,@LegendPikachu_YT
+| Author:      @LegendPikachu_YT
 +----------------------------------------------+\n''',color = 'blue'))
 for i in msg0:
         sys.stdout.write(i)
